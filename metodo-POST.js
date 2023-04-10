@@ -19,5 +19,5 @@ let response = await fetch(url,options,header)
 let data = await response.json()
 
 console.log(data)
-}
-newPost();
+ }
+// newPost();
